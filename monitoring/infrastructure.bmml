@@ -1,0 +1,56 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="876" measuredH="778" mockupW="656" mockupH="764">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="220" y="14" w="656" h="764" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Devices%20Dashboard%0Ahttp%3A//../dashboard/devices</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TabBar" x="220" y="118" w="656" h="632" measuredW="354" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Devices%2CInfrastructure%2CApplication%2CCustomers</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="235" y="90" w="-1" h="-1" measuredW="183" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Appurify%20Monitoring%20Dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="774" y="94" w="-1" h="-1" measuredW="87" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5%20Minutes</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="726" y="96" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Period%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::DataGrid" x="245" y="178" w="-1" h="-1" measuredW="251" measuredH="198" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Services%20%5E%2C%20Status%20%5Ev%2CMemory%20Size%0AWeb%20Service%201%2C%20OK%2C%20100M%0AWeb%20Service%201%2C%20OK%2C%20100M%0AAPI%2C%20OK%2C%20%0ARedis%2C%20OK%2C%20200M%0AMySQL%201%2C%20OK%2C%20100M%0AMySQL%202%2C%20OK%2C%20100M</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="245" y="391" w="605" h="126" measuredW="1092" measuredH="198" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Documents/2013-06-13_1726.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="650" y="178" w="-1" h="-1" measuredW="62" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VM%20Status</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::PieChart" x="601" y="199" w="-1" h="-1" measuredW="180" measuredH="180" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="678" y="318" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VM%20Completed</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="617" y="267" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>VM%20Failures</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
